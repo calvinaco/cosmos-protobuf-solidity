@@ -1,0 +1,34 @@
+This project contains portions of code derived from the following libraries:
+
+* yui-ibc-solidity
+ * Copyright: Copyright 2021 Datachain, Inc
+ * License: Apache License 2.0
+ * Repository: https://github.com/hyperledger-labs/yui-ibc-solidity
+
+* Cosmos SDK
+ * Copyright: Copyright Cosmos-SDK Authors
+ * Copyright: Copyright 2016 All in Bits, Inc
+ * License: Apache License 2.0
+ * Repository: https://github.com/cosmos/cosmos-sdk
+
+* Pulsar
+ * Copyright: Copyright 2021 Regen Network Development, Inc. & All in Bits, Inc.
+ * License: Apache License 2.0
+ * Repository: https://github.com/cosmos/cosmos-proto
+
+* Protocol Buffers for Go with Gadgets
+ * Copyright: Copyright (c) 2022, The Cosmos SDK Authors. All rights reserved.
+ * Copyright: Copyright (c) 2013, The GoGo Authors. All rights reserved.
+ * Copyright: Copyright 2010 The Go Authors.  All rights reserved.
+ * License: https://github.com/cosmos/gogoproto/blob/main/LICENSE
+ * Repository: https://github.com/cosmos/gogoproto
+
+* ibc-go
+ * Copyright: Copyright (c) 2022 COSMOS
+ * License: MIT License
+ * Repository: https://github.com/cosmos/ibc-go
+
+* Google APIs
+ * Copyright: Copyright 2023 Google LLC
+ * License: Apache License 2.0
+ * Repository: https://github.com/googleapis/googleapis
